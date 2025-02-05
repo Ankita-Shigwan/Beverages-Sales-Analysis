@@ -7,7 +7,7 @@ This project is a detailed exploration of profitability and customer behavior in
 3. Visualization: Matplotlib and Seaborn for creating compelling charts and visual representations without using external tools.
 
 # Insights Delivered
-A comprehensive understanding of profitability drivers by category and region.
-Insights into the effectiveness of discount strategies for B2B customers.
-Clear segmentation of customer behavior to aid in strategic decision-making.
-Seasonal and regional sales trends to inform marketing and supply chain strategies.
+1. A comprehensive understanding of profitability drivers by category and region.
+2. Insights into the effectiveness of discount strategies for B2B customers.
+3. Clear segmentation of customer behavior to aid in strategic decision-making.
+4. Seasonal and regional sales trends to inform marketing and supply chain strategies.
